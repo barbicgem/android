@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/reyashukla/Downloads/mediapipe-samples-main/examples/object_detection/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/info_bottom_sheet.xml",
+        "source": "/Users/reyashukla/Downloads/mediapipe-samples-main/examples/object_detection/android/app/src/main/res/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Users/reyashukla/Downloads/mediapipe-samples-main/examples/object_detection/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/reyashukla/Downloads/mediapipe-samples-main/examples/object_detection/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/reyashukla/Downloads/mediapipe-samples-main/examples/object_detection/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_camera.xml",
+        "source": "/Users/reyashukla/Downloads/mediapipe-samples-main/examples/object_detection/android/app/src/main/res/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/Users/reyashukla/Downloads/mediapipe-samples-main/examples/object_detection/android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_gallery.xml",
+        "source": "/Users/reyashukla/Downloads/mediapipe-samples-main/examples/object_detection/android/app/src/main/res/layout/fragment_gallery.xml"
+    }
+]
